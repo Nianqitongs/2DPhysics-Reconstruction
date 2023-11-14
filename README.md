@@ -1,2 +1,2 @@
 # 2DPhysics-Reconstruction-CDCGAN
-![predicate]('./output/display/predicate.png')
+![predicate](./output/display/predicate.png)
